@@ -1,0 +1,4422 @@
+fileFormatVersion: 2
+guid: be97ddc89795bb9418e01cad6cd061f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 990398485741966221
+    second: NatureTiles64x64_0
+  - first:
+      213: 2418502414706435212
+    second: NatureTiles64x64_1
+  - first:
+      213: 6241568508648106554
+    second: NatureTiles64x64_2
+  - first:
+      213: -1477185691859172948
+    second: NatureTiles64x64_3
+  - first:
+      213: 8927939448110405486
+    second: NatureTiles64x64_4
+  - first:
+      213: -8739448673299520533
+    second: NatureTiles64x64_5
+  - first:
+      213: -6699278849492523852
+    second: NatureTiles64x64_6
+  - first:
+      213: -7683312255553633063
+    second: NatureTiles64x64_7
+  - first:
+      213: -1659735841398459200
+    second: NatureTiles64x64_8
+  - first:
+      213: 7789233657292225794
+    second: NatureTiles64x64_9
+  - first:
+      213: 296885445272543745
+    second: NatureTiles64x64_10
+  - first:
+      213: -5275812884861686204
+    second: NatureTiles64x64_11
+  - first:
+      213: 9041967556185115803
+    second: NatureTiles64x64_12
+  - first:
+      213: -1903645966028351218
+    second: NatureTiles64x64_13
+  - first:
+      213: -1898717206854153502
+    second: NatureTiles64x64_14
+  - first:
+      213: -4174446013477886548
+    second: NatureTiles64x64_15
+  - first:
+      213: -7436925223768757233
+    second: NatureTiles64x64_16
+  - first:
+      213: -6445268912056677537
+    second: NatureTiles64x64_17
+  - first:
+      213: -4751455458228472082
+    second: NatureTiles64x64_18
+  - first:
+      213: 2521098887062374800
+    second: NatureTiles64x64_19
+  - first:
+      213: 6151910166354258356
+    second: NatureTiles64x64_20
+  - first:
+      213: 8986764027820384221
+    second: NatureTiles64x64_21
+  - first:
+      213: 1574392019644119817
+    second: NatureTiles64x64_22
+  - first:
+      213: 5001591985183458537
+    second: NatureTiles64x64_23
+  - first:
+      213: -8779237717077949540
+    second: NatureTiles64x64_24
+  - first:
+      213: -4174389620929636661
+    second: NatureTiles64x64_25
+  - first:
+      213: -6429661201653864394
+    second: NatureTiles64x64_26
+  - first:
+      213: -2564945695972542097
+    second: NatureTiles64x64_27
+  - first:
+      213: 5876223286171691925
+    second: NatureTiles64x64_28
+  - first:
+      213: -1158924583834043716
+    second: NatureTiles64x64_29
+  - first:
+      213: -7912698558054946709
+    second: NatureTiles64x64_30
+  - first:
+      213: 1007676932853604199
+    second: NatureTiles64x64_31
+  - first:
+      213: -8077767388526892782
+    second: NatureTiles64x64_32
+  - first:
+      213: 4885017928137158888
+    second: NatureTiles64x64_33
+  - first:
+      213: 3783888874115198092
+    second: NatureTiles64x64_34
+  - first:
+      213: -1196715429929444893
+    second: NatureTiles64x64_35
+  - first:
+      213: 1592598571526000568
+    second: NatureTiles64x64_36
+  - first:
+      213: -3114753968816974682
+    second: NatureTiles64x64_37
+  - first:
+      213: -2573500126559254616
+    second: NatureTiles64x64_38
+  - first:
+      213: 6432131171947201538
+    second: NatureTiles64x64_39
+  - first:
+      213: 6863921682696946746
+    second: NatureTiles64x64_40
+  - first:
+      213: 3719364094259790719
+    second: NatureTiles64x64_41
+  - first:
+      213: -7960203635855387794
+    second: NatureTiles64x64_42
+  - first:
+      213: -4922644837143535939
+    second: NatureTiles64x64_43
+  - first:
+      213: 3134302977169875315
+    second: NatureTiles64x64_44
+  - first:
+      213: -3213104033295569612
+    second: NatureTiles64x64_45
+  - first:
+      213: -7886234282842164215
+    second: NatureTiles64x64_46
+  - first:
+      213: -2702758438736115061
+    second: NatureTiles64x64_47
+  - first:
+      213: -1810849864203222875
+    second: NatureTiles64x64_48
+  - first:
+      213: -5804540331231414991
+    second: NatureTiles64x64_49
+  - first:
+      213: 2329811334329889841
+    second: NatureTiles64x64_50
+  - first:
+      213: 1211362014440929140
+    second: NatureTiles64x64_51
+  - first:
+      213: -6808201694441559657
+    second: NatureTiles64x64_52
+  - first:
+      213: 2723350309177671765
+    second: NatureTiles64x64_53
+  - first:
+      213: -4929725126797752797
+    second: NatureTiles64x64_54
+  - first:
+      213: -630089839767516529
+    second: NatureTiles64x64_55
+  - first:
+      213: 8066555780515990192
+    second: NatureTiles64x64_56
+  - first:
+      213: -3397828336353124524
+    second: NatureTiles64x64_57
+  - first:
+      213: -6120865518966643149
+    second: NatureTiles64x64_58
+  - first:
+      213: 8857904007048744760
+    second: NatureTiles64x64_59
+  - first:
+      213: 2944277176956699123
+    second: NatureTiles64x64_60
+  - first:
+      213: -5419937757194729089
+    second: NatureTiles64x64_61
+  - first:
+      213: 1694033657717734980
+    second: NatureTiles64x64_62
+  - first:
+      213: 415578508424930353
+    second: NatureTiles64x64_63
+  - first:
+      213: -7884881950860628315
+    second: NatureTiles64x64_64
+  - first:
+      213: 3862280325476225502
+    second: NatureTiles64x64_65
+  - first:
+      213: 6874301963582801750
+    second: NatureTiles64x64_66
+  - first:
+      213: 7247258567944961598
+    second: NatureTiles64x64_67
+  - first:
+      213: -8331301788892529872
+    second: NatureTiles64x64_68
+  - first:
+      213: -8682996124624512760
+    second: NatureTiles64x64_69
+  - first:
+      213: 5778866271616854453
+    second: NatureTiles64x64_70
+  - first:
+      213: 8472847250481209652
+    second: NatureTiles64x64_71
+  - first:
+      213: 2492520456293422387
+    second: NatureTiles64x64_72
+  - first:
+      213: -1003468556537911531
+    second: NatureTiles64x64_73
+  - first:
+      213: 1695798528109062523
+    second: NatureTiles64x64_74
+  - first:
+      213: 8554548441105449016
+    second: NatureTiles64x64_75
+  - first:
+      213: 3344605953317794213
+    second: NatureTiles64x64_76
+  - first:
+      213: -4028616466665683862
+    second: NatureTiles64x64_77
+  - first:
+      213: 4992005482505132131
+    second: NatureTiles64x64_78
+  - first:
+      213: -1432715107051458098
+    second: NatureTiles64x64_79
+  - first:
+      213: 3104237764978783054
+    second: NatureTiles64x64_80
+  - first:
+      213: 1636373141423017133
+    second: NatureTiles64x64_81
+  - first:
+      213: 6061192898844065334
+    second: NatureTiles64x64_82
+  - first:
+      213: -6115106180472414134
+    second: NatureTiles64x64_83
+  - first:
+      213: -9066379167352765799
+    second: NatureTiles64x64_84
+  - first:
+      213: -6753384024058643666
+    second: NatureTiles64x64_85
+  - first:
+      213: 6247834308041908669
+    second: NatureTiles64x64_86
+  - first:
+      213: 7562935848412848198
+    second: NatureTiles64x64_87
+  - first:
+      213: 6784666527272661711
+    second: NatureTiles64x64_88
+  - first:
+      213: 1577320831640967513
+    second: NatureTiles64x64_89
+  - first:
+      213: -7888490449222397864
+    second: NatureTiles64x64_90
+  - first:
+      213: -4223774876726157626
+    second: NatureTiles64x64_91
+  - first:
+      213: -4951589780480504911
+    second: NatureTiles64x64_92
+  - first:
+      213: -3279036119396223435
+    second: NatureTiles64x64_93
+  - first:
+      213: -5549802668328140558
+    second: NatureTiles64x64_94
+  - first:
+      213: -6682275230146417373
+    second: NatureTiles64x64_95
+  - first:
+      213: -5906758913896648029
+    second: NatureTiles64x64_96
+  - first:
+      213: -5795588977843850745
+    second: NatureTiles64x64_97
+  - first:
+      213: 217907163582721461
+    second: NatureTiles64x64_98
+  - first:
+      213: 3114408175514933883
+    second: NatureTiles64x64_99
+  - first:
+      213: -193547009381509703
+    second: NatureTiles64x64_100
+  - first:
+      213: -6429162814724861422
+    second: NatureTiles64x64_101
+  - first:
+      213: -1454558527116102060
+    second: NatureTiles64x64_102
+  - first:
+      213: 9013685782052616779
+    second: NatureTiles64x64_103
+  - first:
+      213: 7739625758440642978
+    second: NatureTiles64x64_104
+  - first:
+      213: 8073177746460717450
+    second: NatureTiles64x64_105
+  - first:
+      213: -4605814747148012322
+    second: NatureTiles64x64_106
+  - first:
+      213: -9092207562683997075
+    second: NatureTiles64x64_107
+  - first:
+      213: 5603545848335250903
+    second: NatureTiles64x64_108
+  - first:
+      213: -7344153762756190556
+    second: NatureTiles64x64_109
+  - first:
+      213: -6640904024610180324
+    second: NatureTiles64x64_110
+  - first:
+      213: 8242608414228163911
+    second: NatureTiles64x64_111
+  - first:
+      213: -1855992122908881735
+    second: NatureTiles64x64_112
+  - first:
+      213: 2778409742618956957
+    second: NatureTiles64x64_113
+  - first:
+      213: 5391455299102159050
+    second: NatureTiles64x64_114
+  - first:
+      213: 2445129210130060938
+    second: NatureTiles64x64_115
+  - first:
+      213: -6105527357459316372
+    second: NatureTiles64x64_116
+  - first:
+      213: -7928563407098676369
+    second: NatureTiles64x64_117
+  - first:
+      213: -4765958933836067456
+    second: NatureTiles64x64_118
+  - first:
+      213: 7609309803826817628
+    second: NatureTiles64x64_119
+  - first:
+      213: 2373102538934224183
+    second: NatureTiles64x64_120
+  - first:
+      213: -572596500656827319
+    second: NatureTiles64x64_121
+  - first:
+      213: 1013444386835366455
+    second: NatureTiles64x64_122
+  - first:
+      213: -2196086594561497204
+    second: NatureTiles64x64_123
+  - first:
+      213: 5037434801571730868
+    second: NatureTiles64x64_124
+  - first:
+      213: 6410266096436449309
+    second: NatureTiles64x64_125
+  - first:
+      213: -2618136951810549467
+    second: NatureTiles64x64_126
+  - first:
+      213: -7734744183929489295
+    second: NatureTiles64x64_127
+  - first:
+      213: 6533745815047022735
+    second: NatureTiles64x64_128
+  - first:
+      213: 4296014986882937767
+    second: NatureTiles64x64_129
+  - first:
+      213: 8283577573548444129
+    second: NatureTiles64x64_130
+  - first:
+      213: -558933611854176031
+    second: NatureTiles64x64_131
+  - first:
+      213: -4812369128574754687
+    second: NatureTiles64x64_132
+  - first:
+      213: 8510269421328556949
+    second: NatureTiles64x64_133
+  - first:
+      213: -5061103172881263563
+    second: NatureTiles64x64_134
+  - first:
+      213: 7095842388020381878
+    second: NatureTiles64x64_135
+  - first:
+      213: 833000833730928534
+    second: NatureTiles64x64_136
+  - first:
+      213: -7736231439732801087
+    second: NatureTiles64x64_137
+  - first:
+      213: -8290143559929152389
+    second: NatureTiles64x64_138
+  - first:
+      213: -2809893220686730213
+    second: NatureTiles64x64_139
+  - first:
+      213: -8545137593023309158
+    second: NatureTiles64x64_140
+  - first:
+      213: -2004771633469786185
+    second: NatureTiles64x64_141
+  - first:
+      213: -5271243447845025865
+    second: NatureTiles64x64_142
+  - first:
+      213: 2731752289705554824
+    second: NatureTiles64x64_143
+  - first:
+      213: -5084710306210536360
+    second: NatureTiles64x64_144
+  - first:
+      213: 926636174526060982
+    second: NatureTiles64x64_145
+  - first:
+      213: -6900438444581829213
+    second: NatureTiles64x64_146
+  - first:
+      213: -8217203979175142791
+    second: NatureTiles64x64_147
+  - first:
+      213: -7181394061075009823
+    second: NatureTiles64x64_148
+  - first:
+      213: 5166146807943718646
+    second: NatureTiles64x64_149
+  - first:
+      213: -8188922931364804317
+    second: NatureTiles64x64_150
+  - first:
+      213: -8487169088826246279
+    second: NatureTiles64x64_151
+  - first:
+      213: 1520431360357561137
+    second: NatureTiles64x64_152
+  - first:
+      213: 5863744122271648164
+    second: NatureTiles64x64_153
+  - first:
+      213: 5555868744547843971
+    second: NatureTiles64x64_154
+  - first:
+      213: -7003476546116338112
+    second: NatureTiles64x64_155
+  - first:
+      213: -1774391941919967801
+    second: NatureTiles64x64_156
+  - first:
+      213: 5832526696558799738
+    second: NatureTiles64x64_157
+  - first:
+      213: -8050757178951126448
+    second: NatureTiles64x64_158
+  - first:
+      213: -6902661990395091787
+    second: NatureTiles64x64_159
+  - first:
+      213: 8682163830881569389
+    second: NatureTiles64x64_160
+  - first:
+      213: -8236343427613684410
+    second: NatureTiles64x64_161
+  - first:
+      213: -4921135294033612852
+    second: NatureTiles64x64_162
+  - first:
+      213: -3783491419643750687
+    second: NatureTiles64x64_163
+  - first:
+      213: -7195939058809695819
+    second: NatureTiles64x64_164
+  - first:
+      213: 6021469002397329106
+    second: NatureTiles64x64_165
+  - first:
+      213: 2673529067140115006
+    second: NatureTiles64x64_166
+  - first:
+      213: 6215498498743709867
+    second: NatureTiles64x64_167
+  - first:
+      213: -4888955487036180280
+    second: NatureTiles64x64_168
+  - first:
+      213: -6988508209285968534
+    second: NatureTiles64x64_169
+  - first:
+      213: -8526220466970643609
+    second: NatureTiles64x64_170
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NatureTiles64x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d831cb8ec2a9ebd00800000000000000
+      internalID: 990398485741966221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846005e12f309120800000000000000
+      internalID: 2418502414706435212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2c374d718e9650800000000000000
+      internalID: 6241568508648106554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c171907bff7be0800000000000000
+      internalID: -1477185691859172948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6751d430a966eb70800000000000000
+      internalID: 8927939448110405486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be329373cbd37b680800000000000000
+      internalID: -8739448673299520533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e5b471616703a0800000000000000
+      internalID: -6699278849492523852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4025526346f5590800000000000000
+      internalID: -7683312255553633063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f570cb0f67f8e0800000000000000
+      internalID: -1659735841398459200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7b6ffdbae81c60800000000000000
+      internalID: 7789233657292225794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10224705dbfbe1400800000000000000
+      internalID: 296885445272543745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee368322c88c6b0800000000000000
+      internalID: -5275812884861686204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c450106958b7d70800000000000000
+      internalID: 9041967556185115803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0956c07414e495e0800000000000000
+      internalID: -1903645966028351218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea498c92c666a5e0800000000000000
+      internalID: -1898717206854153502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ea98c7736116c0800000000000000
+      internalID: -4174446013477886548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cee1859ebbac890800000000000000
+      internalID: -7436925223768757233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b4efea21ecd86a0800000000000000
+      internalID: -6445268912056677537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6733e5f607f0eb0800000000000000
+      internalID: -4751455458228472082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994cf6941ebcf220800000000000000
+      internalID: 2521098887062374800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e8abb3b9ff5550800000000000000
+      internalID: 6151910166354258356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1e76f44667bc70800000000000000
+      internalID: 8986764027820384221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bf81c433d59d510800000000000000
+      internalID: 1574392019644119817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40d443969396540800000000000000
+      internalID: 5001591985183458537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938bda8fc1e92680800000000000000
+      internalID: -8779237717077949540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc65962b1c69116c0800000000000000
+      internalID: -4174389620929636661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6386f41f33145c6a0800000000000000
+      internalID: -6429661201653864394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b36baa7b776cd0800000000000000
+      internalID: -2564945695972542097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6429f1f98c8150800000000000000
+      internalID: 5876223286171691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaba133b3caaefe0800000000000000
+      internalID: -1158924583834043716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a360b592703290800000000000000
+      internalID: -7912698558054946709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f181fd4dcfbfd00800000000000000
+      internalID: 1007676932853604199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ae94ab5106ef80800000000000000
+      internalID: -8077767388526892782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b7087ce11bc340800000000000000
+      internalID: 4885017928137158888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c603312e2138430800000000000000
+      internalID: 3783888874115198092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e993dd28a9646fe0800000000000000
+      internalID: -1196715429929444893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf0a9d76fb0a1610800000000000000
+      internalID: 1592598571526000568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a41ded94cb26c4d0800000000000000
+      internalID: -3114753968816974682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a743071547194cd0800000000000000
+      internalID: -2573500126559254616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20441a4d835834950800000000000000
+      internalID: 6432131171947201538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c04f576c814f50800000000000000
+      internalID: 6863921682696946746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7382bc00f5dd9330800000000000000
+      internalID: 3719364094259790719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e631119d7fca78190800000000000000
+      internalID: -7960203635855387794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe16a61a904fabb0800000000000000
+      internalID: -4922644837143535939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e8a493f74f7b20800000000000000
+      internalID: 3134302977169875315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dea0dc7e2c863d0800000000000000
+      internalID: -3213104033295569612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_46
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9047fabe3b77e8290800000000000000
+      internalID: -7886234282842164215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ac171158fdd7ad0800000000000000
+      internalID: -2702758438736115061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04a9e84a19ed6e0800000000000000
+      internalID: -1810849864203222875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135f5809251227fa0800000000000000
+      internalID: -5804540331231414991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13479609017255020800000000000000
+      internalID: 2329811334329889841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4773725855f9fc010800000000000000
+      internalID: 1211362014440929140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799299b51a86481a0800000000000000
+      internalID: -6808201694441559657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504c716da84bc520800000000000000
+      internalID: 2723350309177671765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32607e0bd19169bb0800000000000000
+      internalID: -4929725126797752797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a031c01a87147f0800000000000000
+      internalID: -630089839767516529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba87827eb922ff60800000000000000
+      internalID: 8066555780515990192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f5aeb612d78d0d0800000000000000
+      internalID: -3397828336353124524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3366e008d315e0ba0800000000000000
+      internalID: -6120865518966643149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f46a263c89dea70800000000000000
+      internalID: 8857904007048744760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14bc43e7c2cd820800000000000000
+      internalID: 2944277176956699123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f794ead635388c4b0800000000000000
+      internalID: -5419937757194729089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e32d5e2aa628710800000000000000
+      internalID: 1694033657717734980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13464fa937e64c500800000000000000
+      internalID: 415578508424930353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae201f34a5439290800000000000000
+      internalID: -7884881950860628315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19df62e73999530800000000000000
+      internalID: 3862280325476225502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6578f1ad63d666f50800000000000000
+      internalID: 6874301963582801750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef3c9154f639460800000000000000
+      internalID: 7247258567944961598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bfb740a25416c80800000000000000
+      internalID: -8331301788892529872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80999a5770dcf7780800000000000000
+      internalID: -8682996124624512760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_70
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9653c9148a23050800000000000000
+      internalID: 5778866271616854453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e319eea9959570800000000000000
+      internalID: 8472847250481209652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33593c82626379220800000000000000
+      internalID: 2492520456293422387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a8481aa6f212f0800000000000000
+      internalID: -1003468556537911531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79229ec6cfa88710800000000000000
+      internalID: 1695798528109062523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83046f5bb7cd7b670800000000000000
+      internalID: 8554548441105449016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f921e46d6a6e20800000000000000
+      internalID: 3344605953317794213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644a180baa7718c0800000000000000
+      internalID: -4028616466665683862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368558d998a274540800000000000000
+      internalID: 4992005482505132131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_79
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1bcd37339fd1ce0800000000000000
+      internalID: -1432715107051458098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b9efdcc7741b20800000000000000
+      internalID: 3104237764978783054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_81
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac4286c3b095b610800000000000000
+      internalID: 1636373141423017133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e78b2f3dead1450800000000000000
+      internalID: 6061192898844065334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40652df357c22ba0800000000000000
+      internalID: -6115106180472414134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992cfeade20cd2280800000000000000
+      internalID: -9066379167352765799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_85
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bbf26d2092742a0800000000000000
+      internalID: -6753384024058643666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db126526334c4b650800000000000000
+      internalID: 6247834308041908669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_87
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64027bf7512f4f860800000000000000
+      internalID: 7562935848412848198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_88
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f195824af72e50800000000000000
+      internalID: 6784666527272661711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95998ca70f4c3e510800000000000000
+      internalID: 1577320831640967513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85099004bb3768290800000000000000
+      internalID: -7888490449222397864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce948dc0232265c0800000000000000
+      internalID: -4223774876726157626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb410d445b684bb0800000000000000
+      internalID: -4951589780480504911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53676b1c5068e72d0800000000000000
+      internalID: -3279036119396223435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f049c490e32bf2b0800000000000000
+      internalID: -5549802668328140558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2bb7151ac343a0800000000000000
+      internalID: -6682275230146417373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2715b201af60ea0800000000000000
+      internalID: -5906758913896648029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b27fe78ee19fa0800000000000000
+      internalID: -5795588977843850745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6c572969260300800000000000000
+      internalID: 217907163582721461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_99
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad32b1cb9983b20800000000000000
+      internalID: 3114408175514933883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d97a3502605df0800000000000000
+      internalID: -193547009381509703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129c21bb7607c6a0800000000000000
+      internalID: -6429162814724861422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ba36e9be50dbe0800000000000000
+      internalID: -1454558527116102060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3c34567b071d70800000000000000
+      internalID: 9013685782052616779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9515afe9ca86b60800000000000000
+      internalID: 7739625758440642978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81316a0360b90070800000000000000
+      internalID: 8073177746460717450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bcfed3ebd410c0800000000000000
+      internalID: -4605814747148012322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a912f46df1d180800000000000000
+      internalID: -9092207562683997075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d533ac924bc3cd40800000000000000
+      internalID: 5603545848335250903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_109
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae91135013541a90800000000000000
+      internalID: -7344153762756190556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13f5a189f4c6d3a0800000000000000
+      internalID: -6640904024610180324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_111
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d27b87ea0a36270800000000000000
+      internalID: 8242608414228163911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc7186ff03e36e0800000000000000
+      internalID: -1855992122908881735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d949945b0f4ee8620800000000000000
+      internalID: 2778409742618956957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b165870c42da40800000000000000
+      internalID: 5391455299102159050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86dbbfcf08dee120800000000000000
+      internalID: 2445129210130060938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614534873fc44ba0800000000000000
+      internalID: -6105527357459316372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf8bca69518f190800000000000000
+      internalID: -7928563407098676369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0a9ec999ebddb0800000000000000
+      internalID: -4765958933836067456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aaef263f2b99960800000000000000
+      internalID: 7609309803826817628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73580c89f24fee020800000000000000
+      internalID: 2373102538934224183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d7b2348abd08f0800000000000000
+      internalID: -572596500656827319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328fe4ec4a701e00800000000000000
+      internalID: 1013444386835366455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c872a2ba0eee581e0800000000000000
+      internalID: -2196086594561497204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b59fd6334098e540800000000000000
+      internalID: 5037434801571730868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1013d93d07d5f850800000000000000
+      internalID: 6410266096436449309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_126
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529120650528aabd0800000000000000
+      internalID: -2618136951810549467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1783d58252ba8a490800000000000000
+      internalID: -7734744183929489295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a29693378caa50800000000000000
+      internalID: 6533745815047022735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a379ea8ed28e9b30800000000000000
+      internalID: 4296014986882937767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94fb43aed25f270800000000000000
+      internalID: 8283577573548444129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e76467d44e38f0800000000000000
+      internalID: -558933611854176031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180ee3b46c7073db0800000000000000
+      internalID: -4812369128574754687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593682903fc8a1670800000000000000
+      internalID: 8510269421328556949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345fc8aa7953c9b0800000000000000
+      internalID: -5061103172881263563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84d187e0f797260800000000000000
+      internalID: 7095842388020381878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd22848d96f8b00800000000000000
+      internalID: 833000833730928534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_137
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1848e6e7263a490800000000000000
+      internalID: -7736231439732801087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3e65fa5e73fc80800000000000000
+      internalID: -8290143559929152389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c6034d0014109d0800000000000000
+      internalID: -2809893220686730213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a520b12a2996980800000000000000
+      internalID: -8545137593023309158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f04332de9d24e0800000000000000
+      internalID: -2004771633469786185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7879e2308c8d6b0800000000000000
+      internalID: -5271243447845025865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_143
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883724aeb3229e520800000000000000
+      internalID: 2731752289705554824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ad8c9aea7f69b0800000000000000
+      internalID: -5084710306210536360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b917a2f0b21cdc00800000000000000
+      internalID: 926636174526060982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a540447bc7bc30a0800000000000000
+      internalID: -6900438444581829213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ad65e7480a6fd80800000000000000
+      internalID: -8217203979175142791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee268d6620965c90800000000000000
+      internalID: -7181394061075009823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e0018627d1b740800000000000000
+      internalID: 5166146807943718646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32943fe0bf91b5e80800000000000000
+      internalID: -8188922931364804317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf5df3ea4873a80800000000000000
+      internalID: -8487169088826246279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133f9734448a91510800000000000000
+      internalID: 1520431360357561137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a949c53634306150800000000000000
+      internalID: 5863744122271648164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3879df296a1d40800000000000000
+      internalID: 5555868744547843971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eb4f3ff27aece90800000000000000
+      internalID: -7003476546116338112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57b811ee71067e0800000000000000
+      internalID: -1774391941919967801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bae53e02c41f050800000000000000
+      internalID: 5832526696558799738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05231bf1007f54090800000000000000
+      internalID: -8050757178951126448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4e8e9dd71d430a0800000000000000
+      internalID: -6902661990395091787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac07d010e3d7870800000000000000
+      internalID: 8682163830881569389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d86f46a41a2bd80800000000000000
+      internalID: -8236343427613684410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2d7bf58d94bbb0800000000000000
+      internalID: -4921135294033612852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6556189965e7bc0800000000000000
+      internalID: -3783491419643750687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b11a4e3d83e22c90800000000000000
+      internalID: -7195939058809695819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d62be1972e809350800000000000000
+      internalID: 6021469002397329106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a619785884a1520800000000000000
+      internalID: 2673529067140115006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b79714f2e14650800000000000000
+      internalID: 6215498498743709867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f28823e0f62cb0800000000000000
+      internalID: -4888955487036180280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcb937fc4d30f90800000000000000
+      internalID: -6988508209285968534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NatureTiles64x64_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763bc8db8a7cca980800000000000000
+      internalID: -8526220466970643609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NatureTiles64x64_26: -6429661201653864394
+      NatureTiles64x64_163: -3783491419643750687
+      NatureTiles64x64_25: -4174389620929636661
+      NatureTiles64x64_145: 926636174526060982
+      NatureTiles64x64_87: 7562935848412848198
+      NatureTiles64x64_133: 8510269421328556949
+      NatureTiles64x64_77: -4028616466665683862
+      NatureTiles64x64_62: 1694033657717734980
+      NatureTiles64x64_15: -4174446013477886548
+      NatureTiles64x64_143: 2731752289705554824
+      NatureTiles64x64_89: 1577320831640967513
+      NatureTiles64x64_111: 8242608414228163911
+      NatureTiles64x64_10: 296885445272543745
+      NatureTiles64x64_83: -6115106180472414134
+      NatureTiles64x64_28: 5876223286171691925
+      NatureTiles64x64_82: 6061192898844065334
+      NatureTiles64x64_112: -1855992122908881735
+      NatureTiles64x64_32: -8077767388526892782
+      NatureTiles64x64_95: -6682275230146417373
+      NatureTiles64x64_85: -6753384024058643666
+      NatureTiles64x64_70: 5778866271616854453
+      NatureTiles64x64_40: 6863921682696946746
+      NatureTiles64x64_54: -4929725126797752797
+      NatureTiles64x64_57: -3397828336353124524
+      NatureTiles64x64_80: 3104237764978783054
+      NatureTiles64x64_97: -5795588977843850745
+      NatureTiles64x64_106: -4605814747148012322
+      NatureTiles64x64_74: 1695798528109062523
+      NatureTiles64x64_152: 1520431360357561137
+      NatureTiles64x64_0: 990398485741966221
+      NatureTiles64x64_108: 5603545848335250903
+      NatureTiles64x64_27: -2564945695972542097
+      NatureTiles64x64_44: 3134302977169875315
+      NatureTiles64x64_63: 415578508424930353
+      NatureTiles64x64_166: 2673529067140115006
+      NatureTiles64x64_33: 4885017928137158888
+      NatureTiles64x64_34: 3783888874115198092
+      NatureTiles64x64_11: -5275812884861686204
+      NatureTiles64x64_79: -1432715107051458098
+      NatureTiles64x64_122: 1013444386835366455
+      NatureTiles64x64_132: -4812369128574754687
+      NatureTiles64x64_149: 5166146807943718646
+      NatureTiles64x64_125: 6410266096436449309
+      NatureTiles64x64_67: 7247258567944961598
+      NatureTiles64x64_91: -4223774876726157626
+      NatureTiles64x64_66: 6874301963582801750
+      NatureTiles64x64_130: 8283577573548444129
+      NatureTiles64x64_123: -2196086594561497204
+      NatureTiles64x64_115: 2445129210130060938
+      NatureTiles64x64_7: -7683312255553633063
+      NatureTiles64x64_88: 6784666527272661711
+      NatureTiles64x64_117: -7928563407098676369
+      NatureTiles64x64_139: -2809893220686730213
+      NatureTiles64x64_53: 2723350309177671765
+      NatureTiles64x64_168: -4888955487036180280
+      NatureTiles64x64_18: -4751455458228472082
+      NatureTiles64x64_150: -8188922931364804317
+      NatureTiles64x64_84: -9066379167352765799
+      NatureTiles64x64_128: 6533745815047022735
+      NatureTiles64x64_46: -7886234282842164215
+      NatureTiles64x64_120: 2373102538934224183
+      NatureTiles64x64_78: 4992005482505132131
+      NatureTiles64x64_72: 2492520456293422387
+      NatureTiles64x64_14: -1898717206854153502
+      NatureTiles64x64_37: -3114753968816974682
+      NatureTiles64x64_31: 1007676932853604199
+      NatureTiles64x64_61: -5419937757194729089
+      NatureTiles64x64_146: -6900438444581829213
+      NatureTiles64x64_148: -7181394061075009823
+      NatureTiles64x64_162: -4921135294033612852
+      NatureTiles64x64_127: -7734744183929489295
+      NatureTiles64x64_118: -4765958933836067456
+      NatureTiles64x64_55: -630089839767516529
+      NatureTiles64x64_8: -1659735841398459200
+      NatureTiles64x64_98: 217907163582721461
+      NatureTiles64x64_59: 8857904007048744760
+      NatureTiles64x64_105: 8073177746460717450
+      NatureTiles64x64_24: -8779237717077949540
+      NatureTiles64x64_101: -6429162814724861422
+      NatureTiles64x64_144: -5084710306210536360
+      NatureTiles64x64_43: -4922644837143535939
+      NatureTiles64x64_38: -2573500126559254616
+      NatureTiles64x64_126: -2618136951810549467
+      NatureTiles64x64_76: 3344605953317794213
+      NatureTiles64x64_19: 2521098887062374800
+      NatureTiles64x64_68: -8331301788892529872
+      NatureTiles64x64_170: -8526220466970643609
+      NatureTiles64x64_58: -6120865518966643149
+      NatureTiles64x64_17: -6445268912056677537
+      NatureTiles64x64_56: 8066555780515990192
+      NatureTiles64x64_23: 5001591985183458537
+      NatureTiles64x64_96: -5906758913896648029
+      NatureTiles64x64_12: 9041967556185115803
+      NatureTiles64x64_69: -8682996124624512760
+      NatureTiles64x64_142: -5271243447845025865
+      NatureTiles64x64_110: -6640904024610180324
+      NatureTiles64x64_134: -5061103172881263563
+      NatureTiles64x64_81: 1636373141423017133
+      NatureTiles64x64_155: -7003476546116338112
+      NatureTiles64x64_36: 1592598571526000568
+      NatureTiles64x64_30: -7912698558054946709
+      NatureTiles64x64_104: 7739625758440642978
+      NatureTiles64x64_2: 6241568508648106554
+      NatureTiles64x64_73: -1003468556537911531
+      NatureTiles64x64_160: 8682163830881569389
+      NatureTiles64x64_20: 6151910166354258356
+      NatureTiles64x64_51: 1211362014440929140
+      NatureTiles64x64_5: -8739448673299520533
+      NatureTiles64x64_153: 5863744122271648164
+      NatureTiles64x64_65: 3862280325476225502
+      NatureTiles64x64_113: 2778409742618956957
+      NatureTiles64x64_60: 2944277176956699123
+      NatureTiles64x64_94: -5549802668328140558
+      NatureTiles64x64_159: -6902661990395091787
+      NatureTiles64x64_100: -193547009381509703
+      NatureTiles64x64_116: -6105527357459316372
+      NatureTiles64x64_167: 6215498498743709867
+      NatureTiles64x64_102: -1454558527116102060
+      NatureTiles64x64_52: -6808201694441559657
+      NatureTiles64x64_164: -7195939058809695819
+      NatureTiles64x64_4: 8927939448110405486
+      NatureTiles64x64_13: -1903645966028351218
+      NatureTiles64x64_16: -7436925223768757233
+      NatureTiles64x64_71: 8472847250481209652
+      NatureTiles64x64_21: 8986764027820384221
+      NatureTiles64x64_64: -7884881950860628315
+      NatureTiles64x64_41: 3719364094259790719
+      NatureTiles64x64_49: -5804540331231414991
+      NatureTiles64x64_3: -1477185691859172948
+      NatureTiles64x64_45: -3213104033295569612
+      NatureTiles64x64_109: -7344153762756190556
+      NatureTiles64x64_129: 4296014986882937767
+      NatureTiles64x64_157: 5832526696558799738
+      NatureTiles64x64_103: 9013685782052616779
+      NatureTiles64x64_90: -7888490449222397864
+      NatureTiles64x64_141: -2004771633469786185
+      NatureTiles64x64_50: 2329811334329889841
+      NatureTiles64x64_131: -558933611854176031
+      NatureTiles64x64_121: -572596500656827319
+      NatureTiles64x64_39: 6432131171947201538
+      NatureTiles64x64_48: -1810849864203222875
+      NatureTiles64x64_140: -8545137593023309158
+      NatureTiles64x64_6: -6699278849492523852
+      NatureTiles64x64_93: -3279036119396223435
+      NatureTiles64x64_137: -7736231439732801087
+      NatureTiles64x64_107: -9092207562683997075
+      NatureTiles64x64_124: 5037434801571730868
+      NatureTiles64x64_161: -8236343427613684410
+      NatureTiles64x64_158: -8050757178951126448
+      NatureTiles64x64_138: -8290143559929152389
+      NatureTiles64x64_42: -7960203635855387794
+      NatureTiles64x64_165: 6021469002397329106
+      NatureTiles64x64_29: -1158924583834043716
+      NatureTiles64x64_135: 7095842388020381878
+      NatureTiles64x64_147: -8217203979175142791
+      NatureTiles64x64_86: 6247834308041908669
+      NatureTiles64x64_99: 3114408175514933883
+      NatureTiles64x64_22: 1574392019644119817
+      NatureTiles64x64_114: 5391455299102159050
+      NatureTiles64x64_136: 833000833730928534
+      NatureTiles64x64_47: -2702758438736115061
+      NatureTiles64x64_35: -1196715429929444893
+      NatureTiles64x64_119: 7609309803826817628
+      NatureTiles64x64_1: 2418502414706435212
+      NatureTiles64x64_154: 5555868744547843971
+      NatureTiles64x64_9: 7789233657292225794
+      NatureTiles64x64_92: -4951589780480504911
+      NatureTiles64x64_169: -6988508209285968534
+      NatureTiles64x64_156: -1774391941919967801
+      NatureTiles64x64_75: 8554548441105449016
+      NatureTiles64x64_151: -8487169088826246279
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
