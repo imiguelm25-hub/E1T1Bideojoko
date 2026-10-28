@@ -10459,7 +10459,7 @@ MonoBehaviour:
   jokalaria: {fileID: 2073188048}
   leuntasuna: 5
   mugaMin: {x: -0.06, y: -8.63}
-  mugaMax: {x: 13.3, y: 3.83}
+  mugaMax: {x: 12.9, y: 3.71}
 --- !u!1 &741650748
 GameObject:
   m_ObjectHideFlags: 0
