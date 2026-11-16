@@ -10885,9 +10885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f471125ff03ad34d8cc55b544013417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimazioaInfo
-  gunearenIzena: Hasiera
-  azalpena: Ongi etorri kanpinera! Gida orokor bat egingo dizuet. Etorri nirekin.
-  etiketa: {fileID: 0}
 --- !u!4 &708983440
 Transform:
   m_ObjectHideFlags: 0
@@ -10915,11 +10912,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a97f38013bc64cc488bf239457f8fe5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PuntuInformazioa
-  gunearenIzena: Hasiera
-  azalpena: Ongi etorri kanpinera! Gida orokor bat egingo dizuet. Etorri nirekin.
-  elkarrizketaPanela: {fileID: 0}
-  izenburukoTestua: {fileID: 0}
-  azalpenTestua: {fileID: 0}
 --- !u!1 &712824092
 GameObject:
   m_ObjectHideFlags: 0
@@ -11002,9 +10994,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f471125ff03ad34d8cc55b544013417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimazioaInfo
-  gunearenIzena: Dutxak
-  azalpena: Jarraitzen instalazioekin, partekatutako dutxak egongo dira.
-  etiketa: {fileID: 0}
 --- !u!114 &712824096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11017,11 +11006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a97f38013bc64cc488bf239457f8fe5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PuntuInformazioa
-  gunearenIzena: Dutxak
-  azalpena: Jarraitzen instalazioekin, partekatutako dutxak egongo dira.
-  elkarrizketaPanela: {fileID: 0}
-  izenburukoTestua: {fileID: 0}
-  azalpenTestua: {fileID: 0}
 --- !u!1 &715287746
 GameObject:
   m_ObjectHideFlags: 0
@@ -11679,10 +11663,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f471125ff03ad34d8cc55b544013417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimazioaInfo
-  gunearenIzena: Putzua
-  azalpena: "Kontuz, nahiz eta kanpina oso dibertigarria izan, arriskuak daude. \u26A0\uFE0FKontuz
-    putzuarekin eta ur-jauziarekin. "
-  etiketa: {fileID: 0}
 --- !u!114 &1054365089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11695,12 +11675,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a97f38013bc64cc488bf239457f8fe5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PuntuInformazioa
-  gunearenIzena: Putzua
-  azalpena: "Kontuz, nahiz eta kanpina oso dibertigarria izan, arriskuak daude. \u26A0\uFE0FKontuz
-    putzuarekin eta ur-jauziarekin."
-  elkarrizketaPanela: {fileID: 0}
-  izenburukoTestua: {fileID: 0}
-  azalpenTestua: {fileID: 0}
 --- !u!1 &1077953167
 GameObject:
   m_ObjectHideFlags: 0
@@ -12370,9 +12344,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f471125ff03ad34d8cc55b544013417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimazioaInfo
-  gunearenIzena: Jatetxea
-  azalpena: Lehenengo eta behin, gure instalazioen artean jatetxea egongo da.
-  etiketa: {fileID: 0}
 --- !u!114 &1450445175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12385,11 +12356,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a97f38013bc64cc488bf239457f8fe5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PuntuInformazioa
-  gunearenIzena: Jatetxea
-  azalpena: Lehenengo eta behin, gure instalazioen artean jatetxea egongo da.
-  elkarrizketaPanela: {fileID: 0}
-  izenburukoTestua: {fileID: 0}
-  azalpenTestua: {fileID: 0}
 --- !u!1 &1454677568
 GameObject:
   m_ObjectHideFlags: 0
@@ -12581,10 +12547,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f471125ff03ad34d8cc55b544013417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimazioaInfo
-  gunearenIzena: Dendak
-  azalpena: Hainbat gau ahaztezinak pasatzeko denda kanpainak izango ditugu espazio
-    honetan!
-  etiketa: {fileID: 0}
 --- !u!114 &1595177943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12597,12 +12559,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a97f38013bc64cc488bf239457f8fe5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PuntuInformazioa
-  gunearenIzena: Dendak
-  azalpena: Hainbat gau ahaztezinak pasatzeko denda kanpainak izango ditugu espazio
-    honetan!
-  elkarrizketaPanela: {fileID: 0}
-  izenburukoTestua: {fileID: 0}
-  azalpenTestua: {fileID: 0}
 --- !u!1 &1610697200
 GameObject:
   m_ObjectHideFlags: 0
@@ -16194,7 +16150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4884ef155b335e246ad99f91056d4d18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PertsonaiaAutomatikoa
-  abiadura: 2
+  abiadura: 6
   bizitzak: 3
   informazioDenbora: 5
   animBehera: DownAnimation
