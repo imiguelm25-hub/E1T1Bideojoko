@@ -16103,10 +16103,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::JokalariKudeatzailea
   abiadura: 4
   bizitzak: 3
+  hasierakoPosizioa: {x: 0, y: 0, z: 0}
   animBehera: DownAnimation
   animGora: UpAnimation
   animEzker: LeftAnimation
   animEskuin: RightAnimation
+  gorputzZurruna: {fileID: 0}
+  animatzailea: {fileID: 0}
+  norabidea: {x: 0, y: 0}
 --- !u!114 &2073188052
 MonoBehaviour:
   m_ObjectHideFlags: 0

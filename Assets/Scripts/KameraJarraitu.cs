@@ -2,13 +2,13 @@ using UnityEngine;
 
 public class KameraJarraitu : MonoBehaviour
 {
-    [Header("Helburua / Objetivo")]
+    [Header("Helburua")]
     public Transform jokalaria;
 
-    [Header("Kameraren Ezarpenak / Ajustes")]
+    [Header("Kameraren Ezarpenak")]
     public float leuntasuna = 5f;
 
-    [Header("Maparen Mugak / Límites del Mapa")]
+    [Header("Maparen Mugak /")]
     public Vector2 mugaMin;
     public Vector2 mugaMax; 
 

@@ -197,42 +197,5 @@ public class Animazioa : MonoBehaviour
         Debug.Log("Hurrengo puntura mugitzen...");
     }
 
-    // Arrisku batekin talka egitean bizitza galdu.
-    private void OnTriggerEnter2D(Collider2D besteObjektua)
-    {
-        if (besteObjektua.CompareTag("Arriskua"))
-        {
-            BizitzaGaldu();
-        }
-    }
-
-    void BizitzaGaldu()
-    {
-        bizitzak--;
-
-        Debug.Log("Geratzen diren bizitzak: " + bizitzak);
-
-        if (bizitzak > 0)
-        {
-            CancelInvoke(nameof(InformazioaItxiEtaJarraitu));
-
-            if (informazioPanela != null)
-                informazioPanela.SetActive(false);
-
-            transform.position = hasierakoPosizioa;
-            rb.position = hasierakoPosizioa;
-
-            unekoPuntua = 0;
-            informazioaItxaroten = false;
-            ibilbideaAmaituta = false;
-
-            AnimazioaGelditu();
-        }
-        else
-        {
-            Debug.Log("JOKOA AMAITU DA!");
-
-            gameObject.SetActive(false);
-        }
-    }
+  
 }
